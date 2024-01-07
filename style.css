@@ -1,0 +1,10 @@
+.q{
+    height:100px;
+    width:100px;
+    margin: 10px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
